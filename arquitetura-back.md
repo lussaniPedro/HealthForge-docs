@@ -1,5 +1,8 @@
-<!-- Comando Tree na raiz do projeto -->
+# Arquitetura do backend
 
+> Comando Tree na raiz do projeto
+
+```text
 src/
 ├── config
 │   ├── MongoConfig.java
@@ -130,3 +133,4 @@ src/
 │               └── WorkoutService.java
 └── util
     └── UpdateUtils.java
+```

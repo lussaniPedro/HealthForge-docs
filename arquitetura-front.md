@@ -1,5 +1,8 @@
-<!-- Modelagem de arquitetura ainda não aplicada -->
+# Arquitetura frontend
 
+> Estrutura ainda não aplicada, apenas planejada
+
+```text
 src/
 ├── modules/
 │   ├── auth/
@@ -50,3 +53,4 @@ src/
 │   └── .env
 │
 └── App.tsx
+```
