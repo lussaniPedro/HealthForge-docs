@@ -1,3 +1,5 @@
+<!-- Modelagem de arquitetura ainda não aplicada -->
+
 src/
 ├── modules/
 │   ├── auth/

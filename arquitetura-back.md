@@ -1,3 +1,5 @@
+<!-- Comando Tree na raiz do projeto -->
+
 src/
 ├── config
 │   ├── MongoConfig.java
