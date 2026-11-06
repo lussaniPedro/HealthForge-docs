@@ -1,6 +1,6 @@
 # Arquitetura do backend
 
-> Comando Tree na raiz do projeto
+> Comando `tree -d` na raiz do projeto
 
 ```text
 src/
